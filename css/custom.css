@@ -1,0 +1,161 @@
+.icon-bar {
+	background-color:#fff;
+}
+.navbar-nav li{
+	margin-left: 10px;
+}
+.navbar-trans {
+	background-color:#6657f5;
+    color:#fff;
+}
+.logo{
+	float: left;
+	margin-top: 6px;
+}
+.navbar-trans ul{
+	margin-right: 5%;
+	font-size: 16px;
+}
+.navbar-trans li>a:hover,.navbar-trans li>a:focus,.navbar-trans li.active {
+	background-color:#503ef4;
+}
+.navbar-trans a{
+    color:#fefefe;
+}
+.navbar-trans .form-control:focus {
+	border-color: #eee;
+	outline: 0;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(100,100,100,0.6);
+}
+.row{
+	margin-top: 4%;
+}
+.row p{
+	text-align: justify;
+}
+section {
+	padding-top:60px;  
+    padding-bottom:50px; 
+    min-height:100vh;
+}
+.v-center {
+    margin-top:4%;
+    font-size:50px;
+    margin-left: 5%;
+	margin-right: 5%;
+}
+#section1 {
+	background-color:#6657f5;
+    color:#dedeff;
+}
+#section1 p{
+	margin-left: 10px;
+    margin-right: 10px;
+}
+#section2 {
+	background-color: #e5e5ef;
+    color:#686868;
+}
+.jumbotron-content{
+	background:url(../images/waterdrop.jpg) no-repeat 50% 0;
+    height:350px;
+    padding:0;
+}
+.section2-h2{
+	padding-top: 30px;
+	color: #ffffff;
+    font-weight: bold;
+    text-shadow: -4px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+} 
+.section2-p{
+	font-size: 19px;
+	color: #ffffff;
+    font-weight: bold;
+    text-shadow: -4px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.lead{
+	margin-left: 20px;
+    margin-right: 20px;
+	margin-top: 50px;
+    color: #000000;
+}
+#section3 {
+	background-color: #6657f5;
+    color:#ddd;
+}
+#section3 img{
+	margin-top: 40px;
+}
+#section3 h4{
+	margin-left: 20px;
+    margin-right: 20px;
+}
+#section3 h3{
+	text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}    
+#section4 {
+	background-color: #fff;
+    color:#444;
+}
+#section4 img{
+	float:left;
+	margin-right: 80px;
+	margin-bottom: 20px;
+}
+#section4 p{
+	text-align: justify;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-right: 20px;
+}
+#section4 h3{
+	text-decoration: underline;
+	text-underline-position: under;
+}
+#section5 .container{
+	margin-top: 100px;
+}
+#section5 .v-center{
+	margin-top: 7%;
+}
+a.list-group-item.active,[class*='-info'] {
+	background-color: #6657f5;
+    color:#fff;
+    border-color: #503ef4;
+}
+a.list-group-item.active:hover{
+	background-color: #503ef4;
+}
+.btn-primary{
+	background-color: #6657f5;
+	border-color: #503ef4;
+}
+.btn-block:hover{
+	background-color: #503ef4;
+}
+footer {
+	background-color:#6657f5;
+    color:#ffffff;
+    min-height:100px;
+    padding-top:10px;
+    padding-bottom:40px;
+}
+footer h4{
+	font-size: 24px;
+	text-decoration: underline;
+	text-underline-position: under;
+}
+footer .nav>li>a {
+	font-size: 16px;
+    padding:3px;
+    color:#fff;
+}
+footer .nav>li>a:hover {
+    background-color:transparent;
+	color:#503ef4;
+}
+footer li{
+	padding: 2px;
+}
